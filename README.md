@@ -21,5 +21,3 @@ A basic AI chatbot with Python designed to help general users troubleshoot commo
     ```
 
 Interact with the chatbot by choosing numbered options or typing your questions. Type `menu` to see options again, or `exit` to quit.
-
-<img width="914" height="553" alt="Screenshot 2025-07-30 at 18 39 52" src="https://github.com/user-attachments/assets/1c337dc2-14ec-4a70-8e66-4d3dab77bd60" />
