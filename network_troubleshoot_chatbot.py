@@ -5,7 +5,7 @@ def send_chat_message(user_message: str) -> str:
     response = requests.post(
         url="https://openrouter.ai/api/v1/chat/completions",
         headers={
-            "Authorization": "Bearer <<Your_OPENROUTER_API_KEY>>",
+            "Authorization": "Bearer <<YOUR_OPENROUTER_API_KEY>>",
             "Content-Type": "application/json",
         },
         data=json.dumps({
